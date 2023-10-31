@@ -130,7 +130,7 @@ img {
 
 @media all and (max-width: 1140px){
     body{
-        width: max-content;
+        width: min-content;
     }
 }
 
@@ -155,6 +155,7 @@ img {
     .text{
         width: 60%;
     }
+    
 
     .card{
         display: flex;
